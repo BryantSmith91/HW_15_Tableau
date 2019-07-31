@@ -2,3 +2,6 @@
 #CitiBike Data Analysis
 
 ##
+
+![](screenshots/BikeIds.png)
+![](screenshots/BirthYearandGender.png)
