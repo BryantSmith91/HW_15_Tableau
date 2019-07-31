@@ -4129,7 +4129,7 @@
       <active id='-1' />
       <simple-id uuid='{37DBD7BF-D2E7-4303-B190-516760064F9F}' />
     </window>
-    <window class='dashboard' name='Unexplained #1'>
+    <window class='dashboard' maximized='true' name='Unexplained #1'>
       <viewpoints>
         <viewpoint name='Unexplained #1 - Unknown 1969'>
           <zoom type='entire-view' />
@@ -4162,13 +4162,13 @@
       <active id='-1' />
       <simple-id uuid='{4C0D5D91-20F0-445F-BA0E-D2390E730F40}' />
     </window>
-    <window class='dashboard' maximized='true' name='Total Ridership Subs vs Nonsubs'>
+    <window class='dashboard' name='Total Ridership Subs vs Nonsubs'>
       <viewpoints>
         <viewpoint name='Total Ridership vs Subscribers vs Nonsubscriber Customers'>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{75BCD14B-669B-4769-80B5-7F5E2D653C0F}' />
     </window>
     <window class='worksheet' hidden='true' name='Bikes by ID Due for Inspection'>
