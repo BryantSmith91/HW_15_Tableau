@@ -3,7 +3,9 @@
 
 ## Overview of Project
 
-ADD MORE TEXT
+We were given the task of analyzing a year of data related to New York City's CitiBike program and making a series of conclusions from the data and explaining them.  In this analysis I explore the overall ridership with the CitiBike program and some rider analytics such as gender and age.  I also explore some bike statistics and station statistics.  Finally, I was tasked with finding some strange phenomena that appear in the data that would otherwise be unexplained.  
+
+All of the screenshots used here are available in the screenshots folder.  I also was unable to link to the data here on GitHub, so the raw data and the tableau workbook are available from the mega.co.nz download links that are in the markdown file "linkstocsvsandtbwx.md"
 
 ### Total Ridership Over Time and Split between Customers and Subscribers
 
@@ -33,6 +35,7 @@ Here we explore the average trip duration by age of the rider.  We can see that 
 
 ### Analysing bikes by ID likely due for inspection and service.
 
+We were also tasked with identifying which bikes, by bike ID would likely be due for inspection or service.  This is examined by exploring which bikes are used the most and which are used the least during a period of time (again, the one year sampled period).  Here we see the most frequently used bikes along with their average rider age, which is surprisingly 39 years old as opposed to the 31 year olds who we saw are the most frequent riders on the system.  We also explored on the right-hand side how many bikes are in service throughout the year.  A general observation that we can make here is that we can take bikes out of the system for service in the months of July, September, and October.  This is likely due to July being too hot to use the CitiBike service and September and October being less active with tourists to the New York City area.  A conclusion I can draw here is that we ought to take top listed bikes on the left hand side out for service the next time they become available.
 <br/><br/>
 ![](screenshots/BikeIds.png)
 
