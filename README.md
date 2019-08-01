@@ -7,26 +7,28 @@ ADD MORE TEXT
 
 ### Total Ridership Over Time and Split between Customers and Subscribers
 
-Here, I have a graph that shows overall ridership over the time period sampled.  Overall ridership is the green line on top.  Then the ridership is split between single ride customers and subscribers.  You can clearly see in this image that the subscribers to CitiBike are their major source of ridership and that there are significantly fewer customers than subscribers.
+Here, I have a graph that shows overall ridership over the time period sampled.  Overall ridership is the green line on top.  Then the ridership is split between single ride customers and subscribers.  You can clearly see in this image that the subscribers to CitiBike are their major source of ridership and that there are significantly fewer customers than subscribers.  This trend continues throughout the year sampled.
 
 <br/>
 
 ![](screenshots/isSubscriber.png)
 
-### Percent Change in Ridership Over Time
-![](screenshots/RidershipOverTime.png)
-
-### Analysing bikes by ID likely due for inspection and service.
-<br/><br/>
-![](screenshots/BikeIds.png)
-
 ### Age and Gender Analysis
+
+Here we explored some analytics of the riders.  We broke down ridership by gender and age.  First, let's explore the CitiBike riders and their gender.
+
+Here in this first image you can see the overall ridership by gender separated three different ways.  We display the overall total ridership between gender as a total number, throughout the year as the graph, and we've got the average trip duration and trip length by gender.  It is clear by a very large margin that a majority of CitiBike riders are male with about 14 million male rides over the year as opposed to 4 million female and around 100 thousand rides taken by someone of unknown gender.
 
 ![](screenshots/GenderInfo.png)
 <br/><br/>
 ![](screenshots/BirthYearandGender.png)
 <br/><br/>
 ![](screenshots/TripDurationbyAge.png)
+
+### Analysing bikes by ID likely due for inspection and service.
+<br/><br/>
+![](screenshots/BikeIds.png)
+
 
 
 ### Start Stations and Stop Stations
