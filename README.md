@@ -5,7 +5,7 @@
 
 We were given the task of analyzing a year of data related to New York City's CitiBike program and making a series of conclusions from the data and explaining them.  In this analysis I explore the overall ridership with the CitiBike program and some rider analytics such as gender and age.  I also explore some bike statistics and station statistics.  Finally, I was tasked with finding some strange phenomena that appear in the data that would otherwise be unexplained.  
 
-All of the screenshots used here are available in the screenshots folder.  I also was unable to link to the data here on GitHub, so the raw data and the tableau workbook are available from the mega.co.nz download links that are in the markdown file "linkstocsvsandtbwx.md"
+All of the screenshots used here are available in the screenshots folder.  I also was unable to link to the data here on GitHub, so the raw data and the tableau workbook are available from the mega.co.nz download links that are in the markdown file "linkstocsvsandtbwx.md".  The process I used was to go ahead and download the data from the CitiBike website (https://www.citibikenyc.com/system-data).  I went with about a year of raw ride data covering the timespan of May 2018 to May 2019, to make the most current and up to date analysis.  I then combined the data and imported it into tableau to analyze the data.
 
 ### Total Ridership Over Time and Split between Customers and Subscribers
 
