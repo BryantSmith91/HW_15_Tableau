@@ -17,15 +17,22 @@ Here, I have a graph that shows overall ridership over the time period sampled. 
 
 Here we explored some analytics of the riders.  We broke down ridership by gender and age.  First, let's explore the CitiBike riders and their gender.
 
-Here in this first image you can see the overall ridership by gender separated three different ways.  We display the overall total ridership between gender as a total number, throughout the year as the graph, and we've got the average trip duration and trip length by gender.  It is clear by a very large margin that a majority of CitiBike riders are male with about 14 million male rides over the year as opposed to 4 million female and around 100 thousand rides taken by someone of unknown gender.
+Here in this first image you can see the overall ridership by gender separated three different ways.  We display the overall total ridership between gender as a total number, throughout the year as the graph, and we've got the average trip duration and trip length by gender.  It is clear by a very large margin that a majority of CitiBike riders are male with about 14 million male rides over the year as opposed to 4 million female and around 100 thousand rides taken by someone of unknown gender.  However, on average males take shorter rides in duration and length than female riders and riders of unknown gender.
 
 ![](screenshots/GenderInfo.png)
 <br/><br/>
+
+In this second image here we analyze overall ridership by gender and year of birth. Here we can see, once again that the most common users of CitiBike are males.  However we add their birth year to this image.  So we can see that the most common user of the CitiBike program are Males born in the year 1988.  We have also displayed a chart (fully viewable in the workbook that is available in the above linked file) showing a range of birth years that are common.  In the range we can that the most common birth year of riders (not separated by gender) is also the year 1988.  So the most common users of the CitiBike over the sampled time are 31 year old males.
+<br/><br/>
+
 ![](screenshots/BirthYearandGender.png)
+
+Here we explore the average trip duration by age of the rider.  We can see that the users with the highest trip duration are the youngest users at around the age of 17.  However there is a peak right around the user's age hitting 31 as we explored above.  This can likely be explained by the 31 year old users being commuters from elsewhere in the city and using CitiBike as a more healthy, earth-conscious, and cost effective option to either owning a car or frequently using mass transit.
 <br/><br/>
 ![](screenshots/TripDurationbyAge.png)
 
 ### Analysing bikes by ID likely due for inspection and service.
+
 <br/><br/>
 ![](screenshots/BikeIds.png)
 
