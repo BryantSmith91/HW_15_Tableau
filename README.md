@@ -3,6 +3,8 @@
 
 ## Overview of Project
 
+ADD MORE TEXT
+
 ### Total Ridership Over Time and Split between Customers and Subscribers
 
 Here, I have a graph that shows overall ridership over the time period sampled.  Overall ridership is the green line on top.  Then the ridership is split between single ride customers and subscribers.  You can clearly see in this image that the subscribers to CitiBike are their major source of ridership and that there are significantly fewer customers than subscribers.
