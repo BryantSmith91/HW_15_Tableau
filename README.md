@@ -3,6 +3,16 @@
 
 ## Overview of Project
 
+### Total Ridership Over Time and Split between Customers and Subscribers
+
+Here, I have a graph that shows overall ridership over the time period sampled.  Overall ridership is the green line on top.  Then the ridership is split between single ride customers and subscribers.  You can clearly see in this image that the subscribers to CitiBike are their major source of ridership and that there are significantly fewer customers than subscribers.
+
+<br/>
+
+![](screenshots/isSubscriber.png)
+
+### Percent Change in Ridership Over Time
+![](screenshots/RidershipOverTime.png)
 
 ### Analysing bikes by ID likely due for inspection and service.
 <br/><br/>
@@ -16,11 +26,6 @@
 <br/><br/>
 ![](screenshots/TripDurationbyAge.png)
 
-### Total Ridership Over Time and Split between Customers and Subscribers
-![](screenshots/isSubscriber.png)
-
-### Percent Change in Ridership Over Time
-![](screenshots/RidershipOverTime.png)
 
 ### Start Stations and Stop Stations
 
@@ -29,7 +34,7 @@ In the below images you can see a map of the popularity of start and stop statio
 
 ![](screenshots/StartStations.png)
 
-<br/><br/>
+<br/>
 
 ![](screenshots/EndStations.png)
 
